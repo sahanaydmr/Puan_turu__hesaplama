@@ -1,5 +1,9 @@
 # Ders Puan Belirleyici
 
+****
+
+## [İndirme Linki](https://www.dosya.tc/server/cmeim6/puanhesap.rar.html)
+
 
 ****
 ## Puanların karşılıkları 
@@ -47,7 +51,7 @@
 
 ## Floatchart şeması
 
-_  _  _  _ _ _![image](https://github.com/user-attachments/assets/9448d390-ac60-46fa-87bd-b5324cb74c52)_ _ _ _ __
+_  _  _  _ _ _![image](https://github.com/user-attachments/assets/1616417c-3f5c-4df7-87bf-26cc87c21118)_ _ _ _ __
 
 ****
 
@@ -55,6 +59,7 @@ _  _  _  _ _ _![image](https://github.com/user-attachments/assets/9448d390-ac60-
 
 
 
-![image](https://github.com/user-attachments/assets/f36eea9c-865b-4843-b00b-b0fef3a62ecf)
+![image](https://github.com/user-attachments/assets/aead8ec5-34f5-4524-9d12-fcebc827ada9)
+
 
 ***
