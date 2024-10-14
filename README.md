@@ -1,12 +1,12 @@
-# Ders Puan Belirleyici
+# <p align="center"> Ders Puan Belirleyici  </p>
 
 ****
 
-## [İndirme Linki](https://www.dosya.tc/server/cmeim6/puanhesap.rar.html)
+## <p align="center"> [İndirme Linki](https://www.dosya.tc/server/cmeim6/puanhesap.rar.html) </p>
 
 
 ****
-## Puanların karşılıkları 
+## <p align="center"> Puanların karşılıkları </p> 
 
 <table align="center" style="border: 1000px #ffffff dotted">
 	<thead>
@@ -48,18 +48,26 @@
 
 
 ****
+## <p align="center"> Floatchart şeması </p>
 
-## Floatchart şeması
 
-_  _  _  _ _ _![image](https://github.com/user-attachments/assets/1616417c-3f5c-4df7-87bf-26cc87c21118)_ _ _ _ __
+
+<p align="center">
+  <img width="" height="" src="https://github.com/user-attachments/assets/1616417c-3f5c-4df7-87bf-26cc87c21118">
+</p>
+
+
+
 
 ****
 
-## Floatchart Programi ile
+## <p align="center"> Floatchart Programi ile </p>
 
 
+<p align="center">
+  <img width="" height="" src="https://github.com/user-attachments/assets/aead8ec5-34f5-4524-9d12-fcebc827ada9">
+</p>
 
-![image](https://github.com/user-attachments/assets/aead8ec5-34f5-4524-9d12-fcebc827ada9)
 
 
 ***
