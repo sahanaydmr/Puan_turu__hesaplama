@@ -2,7 +2,7 @@
 
 ****
 
-## <p align="center"> [İndirme Linki](https://www.dosya.tc/server/cmeim6/puanhesap.rar.html) </p>
+## <p align="center"> [İndirme Linki](https://github.com/user-attachments/files/17366219/puan.zip) </p>
 
 
 ****
